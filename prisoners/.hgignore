@@ -1,0 +1,9 @@
+syntax: glob
+
+*.swp
+logs/*
+outputs/*
+inputs/*
+tmp/*
+bin/*
+
